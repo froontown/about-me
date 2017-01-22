@@ -28,5 +28,5 @@ I don't know.
 This is a little project where I will build a personal site for practice. I plan on using the following for the site:
   * Rails
   * Foundation & CSS
-  * ActiveRecord
+  * ActiveRecord maybe?
   * React
